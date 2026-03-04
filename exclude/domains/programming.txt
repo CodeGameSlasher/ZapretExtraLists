@@ -1,0 +1,5 @@
+gleam.run
+rust-lang.org
+pypi.org
+pythonhosted.org
+www.modular.com
