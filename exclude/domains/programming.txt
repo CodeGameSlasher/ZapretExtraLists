@@ -4,4 +4,3 @@ rust-lang.org
 pypi.org
 pythonhosted.org
 www.modular.com
-www.radmin-vpn.com
