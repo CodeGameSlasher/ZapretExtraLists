@@ -1,0 +1,12 @@
+apis.roblox.com
+assetdelivery.roblox.com
+css.rbxcdn.com
+ecsv2.roblox.com
+games.roblox.com
+js.rbxcdn.com
+metrics.roblox.com
+realtime-signalr.roblox.com
+roblox.com
+static.rbxcdn.com
+thumbnails.roblox.com
+tr.rbxcdn.com
