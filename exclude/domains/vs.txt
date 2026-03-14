@@ -1,2 +1,4 @@
+cdn.vsassets.io
+gallerycdn.vsassets.io
 marketplace.visualstudio.com
 vsassets.io
