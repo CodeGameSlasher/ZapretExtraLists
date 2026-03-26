@@ -1,3 +1,2 @@
-maven.neoforged.net
 nilesoft.org
 windhawk.net
