@@ -45,7 +45,7 @@ warframe.com
 warframe-web-assets.nyc3.cdn.digitaloceanspaces.com
 www-static.warframe.com
 cdn.vsassets.io
-gallerycdn.vsassets.io
+gallery.vsassets.io
 marketplace.visualstudio.com
 vsassets.io
 cmake.org

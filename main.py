@@ -2,35 +2,37 @@ from pathlib import Path
 from dataclasses import dataclass
 
 
-class DirectoryNotFoundError(Exception):
-    def __init__(self, directory: Path) -> None:
-        super().__init__(f"Directory {directory} wasn't found!")
-
-
 def get_all_content(path: Path) -> list[str]:
     return sorted({file.read_text().strip() for file in path.iterdir()})
 
 
 @dataclass
-class List:
+class ValueList:
     directory: Path
 
     def __post_init__(self) -> None:
         self.domains: Path = self.directory.joinpath("domains")
         self.ips: Path = self.directory.joinpath("ips")
 
-        if not self.domains.is_dir():
-            raise DirectoryNotFoundError(self.domains)
-        if not self.ips.is_dir():
-            raise DirectoryNotFoundError(self.ips)
 
+LISTS = ValueList(Path("exclude")), ValueList(Path("include"))
 
-LISTS = List(Path("exclude")), List(Path("include"))
+for value_list in LISTS:
+    ips: list[str] = get_all_content(value_list.ips) if value_list.ips.exists() else []
+    domains: list[str] = get_all_content(value_list.domains) if value_list.domains.exists() else []
 
-for list in LISTS:
-    domains = get_all_content(list.domains)
-    list.directory.joinpath("domains.txt").write_text("\n".join(domains))
-    ips = get_all_content(list.ips)
-    list.directory.joinpath("ips.txt").write_text("\n".join(ips))
+    ips_path = value_list.directory.joinpath("ips.txt")
+    if len(ips) > 0:
+        ips_path.write_text("\n".join(ips))
+    elif ips_path.exists():
+        ips_path.unlink()
 
-    list.directory.joinpath("all.txt").write_text('\n'.join(sorted({*domains, *ips})))
+    domains_path = value_list.directory.joinpath("domains.txt")
+    if len(domains) > 0:
+        domains_path.write_text("\n".join(domains))
+    elif domains_path.exists():
+        domains_path.unlink()
+
+    value_list.directory.joinpath("all.txt").write_text(
+        "\n".join(sorted({*domains, *ips}))
+    )
