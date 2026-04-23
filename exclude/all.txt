@@ -65,8 +65,6 @@ krita.org
 kde.org
 libreoffice.org
 nilesoft.org
-modrinth.com
-www.modrinth.com
 windhawk.net
 radmin.com
 tpucdn.com
