@@ -64,6 +64,8 @@ gallery.vsassets.io
 gallerycdn.vsassets.io
 marketplace.visualstudio.com
 vsassets.io
+modrinth.com
+www.modrinth.com
 telegram.me
 telegram.dog
 telegram.space
