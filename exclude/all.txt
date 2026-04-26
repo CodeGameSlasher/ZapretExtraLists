@@ -66,6 +66,7 @@ kde.org
 libreoffice.org
 nilesoft.org
 windhawk.net
+papermc.io
 radmin.com
 tpucdn.com
 wherewindsmeet.com
