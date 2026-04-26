@@ -51,6 +51,9 @@ warframe-web-assets.nyc3.cdn.digitaloceanspaces.com
 www-static.warframe.com
 cmake.org
 gleam.run
+fyne.io
+mingw-w64.org
+msys2.org
 rust-lang.org
 pypi.org
 pythonhosted.org
