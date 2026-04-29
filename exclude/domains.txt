@@ -1,4 +1,5 @@
 adoptium.net
+ajay.app
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
@@ -67,6 +68,7 @@ kdenlive.org
 krita.org
 kde.org
 libreoffice.org
+mozilla.org
 nilesoft.org
 windhawk.net
 papermc.io

@@ -4,6 +4,7 @@
 3.164.68.41/16
 172.232.25.131/16
 adoptium.net
+ajay.app
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
@@ -72,6 +73,7 @@ kdenlive.org
 krita.org
 kde.org
 libreoffice.org
+mozilla.org
 nilesoft.org
 windhawk.net
 papermc.io

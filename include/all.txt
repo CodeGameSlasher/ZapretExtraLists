@@ -61,6 +61,8 @@ thumbnails.roblox.com
 tr.rbxcdn.com
 modrinth.com
 www.modrinth.com
+sponsor.ajay.app
+wiki.sponsor.ajay.app
 telegram.me
 telegram.dog
 telegram.space
