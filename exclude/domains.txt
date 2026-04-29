@@ -51,6 +51,7 @@ gallerycdn.vsassets.io
 marketplace.visualstudio.com
 vsassets.io
 cmake.org
+deno.land
 gleam.run
 fyne.io
 mingw-w64.org
@@ -59,6 +60,7 @@ rust-lang.org
 pypi.org
 pythonhosted.org
 www.modular.com
+darkreader.org
 duck.ai
 ollama.com
 duckduckgo.com
