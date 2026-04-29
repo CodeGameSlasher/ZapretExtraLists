@@ -59,11 +59,6 @@ roblox.com
 static.rbxcdn.com
 thumbnails.roblox.com
 tr.rbxcdn.com
-cdn.vsassets.io
-gallery.vsassets.io
-gallerycdn.vsassets.io
-marketplace.visualstudio.com
-vsassets.io
 modrinth.com
 www.modrinth.com
 telegram.me
