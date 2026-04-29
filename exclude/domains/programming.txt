@@ -1,4 +1,5 @@
 cmake.org
+deno.land
 gleam.run
 fyne.io
 mingw-w64.org
