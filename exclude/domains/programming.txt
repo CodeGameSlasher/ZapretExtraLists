@@ -1,4 +1,5 @@
 cmake.org
+crates.io
 deno.land
 gleam.run
 fyne.io
