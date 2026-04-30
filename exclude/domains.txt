@@ -51,6 +51,7 @@ gallerycdn.vsassets.io
 marketplace.visualstudio.com
 vsassets.io
 cmake.org
+crates.io
 deno.land
 gleam.run
 fyne.io
