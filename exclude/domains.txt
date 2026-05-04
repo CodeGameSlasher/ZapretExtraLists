@@ -1,3 +1,6 @@
+adderly.top
+nilesoft.org
+windhawk.net
 adoptium.net
 ajay.app
 akamaihd.net
@@ -50,6 +53,7 @@ gallery.vsassets.io
 gallerycdn.vsassets.io
 marketplace.visualstudio.com
 vsassets.io
+cdn1.suno.ai
 cmake.org
 crates.io
 deno.land
@@ -72,8 +76,6 @@ krita.org
 kde.org
 libreoffice.org
 mozilla.org
-nilesoft.org
-windhawk.net
 papermc.io
 radmin.com
 tpucdn.com
