@@ -3,6 +3,9 @@
 23.211.66.68/16
 3.164.68.41/16
 172.232.25.131/16
+adderly.top
+nilesoft.org
+windhawk.net
 adoptium.net
 ajay.app
 akamaihd.net
@@ -55,6 +58,7 @@ gallery.vsassets.io
 gallerycdn.vsassets.io
 marketplace.visualstudio.com
 vsassets.io
+cdn1.suno.ai
 cmake.org
 crates.io
 deno.land
@@ -77,8 +81,6 @@ krita.org
 kde.org
 libreoffice.org
 mozilla.org
-nilesoft.org
-windhawk.net
 papermc.io
 radmin.com
 tpucdn.com
