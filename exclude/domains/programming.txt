@@ -3,9 +3,9 @@ crates.io
 deno.land
 gleam.run
 fyne.io
+langchain.com
 mingw-w64.org
 msys2.org
 rust-lang.org
-pypi.org
 pythonhosted.org
 www.modular.com
