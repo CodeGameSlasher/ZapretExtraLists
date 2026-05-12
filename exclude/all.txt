@@ -5,6 +5,7 @@
 172.232.25.131/16
 adderly.top
 nilesoft.org
+voicemod.net
 windhawk.net
 adoptium.net
 ajay.app
@@ -64,10 +65,10 @@ crates.io
 deno.land
 gleam.run
 fyne.io
+langchain.com
 mingw-w64.org
 msys2.org
 rust-lang.org
-pypi.org
 pythonhosted.org
 www.modular.com
 darkreader.org
@@ -75,6 +76,7 @@ duck.ai
 ollama.com
 duckduckgo.com
 links.duckduckgo.com
+fandom.com
 gamejolt.com
 kdenlive.org
 krita.org
