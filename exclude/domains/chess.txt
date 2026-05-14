@@ -1,0 +1,3 @@
+api.chess.com
+lichess.org
+lichess1.org

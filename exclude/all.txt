@@ -5,6 +5,7 @@
 172.232.25.131/16
 adderly.top
 nilesoft.org
+voicemod.net
 windhawk.net
 adoptium.net
 ajay.app
@@ -53,6 +54,9 @@ updates.warframe.com
 warframe.com
 warframe-web-assets.nyc3.cdn.digitaloceanspaces.com
 www-static.warframe.com
+api.chess.com
+lichess.org
+lichess1.org
 cdn.vsassets.io
 gallery.vsassets.io
 gallerycdn.vsassets.io
@@ -62,12 +66,13 @@ cdn1.suno.ai
 cmake.org
 crates.io
 deno.land
+gitforwindows.org
 gleam.run
 fyne.io
+langchain.com
 mingw-w64.org
 msys2.org
 rust-lang.org
-pypi.org
 pythonhosted.org
 www.modular.com
 darkreader.org
@@ -75,6 +80,7 @@ duck.ai
 ollama.com
 duckduckgo.com
 links.duckduckgo.com
+fandom.com
 gamejolt.com
 kdenlive.org
 krita.org

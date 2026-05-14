@@ -59,8 +59,11 @@ roblox.com
 static.rbxcdn.com
 thumbnails.roblox.com
 tr.rbxcdn.com
+kali.org
+http.kali.org
 modrinth.com
 www.modrinth.com
+pypi.org
 sponsor.ajay.app
 wiki.sponsor.ajay.app
 telegram.me
