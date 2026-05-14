@@ -1,1 +1,2 @@
+adoptium.net
 pypi.org
