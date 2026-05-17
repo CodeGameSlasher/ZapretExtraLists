@@ -2,6 +2,7 @@ cmake.org
 crates.io
 deno.land
 gitforwindows.org
+godotengine.org
 gleam.run
 fyne.io
 langchain.com

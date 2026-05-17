@@ -1,3 +1,6 @@
+adoptium.net
+blockbench.net
+pypi.org
 amazonaws.com
 argotunnel.com
 awsapps.com
@@ -62,7 +65,6 @@ kali.org
 http.kali.org
 modrinth.com
 www.modrinth.com
-pypi.org
 sponsor.ajay.app
 wiki.sponsor.ajay.app
 telegram.me

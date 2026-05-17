@@ -34,6 +34,7 @@ origin-swi.warframe.com
 patches.warframe.com
 prod.warframe.com
 services.warframe.com
+static.netvigator.com
 static.warframe.com
 steamcdn-a.akamaihd.net
 store.warframe.com

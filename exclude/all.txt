@@ -7,7 +7,6 @@ adderly.top
 nilesoft.org
 voicemod.net
 windhawk.net
-adoptium.net
 ajay.app
 akamaihd.net
 akamaitechnologies.com
@@ -45,6 +44,7 @@ origin-swi.warframe.com
 patches.warframe.com
 prod.warframe.com
 services.warframe.com
+static.netvigator.com
 static.warframe.com
 steamcdn-a.akamaihd.net
 store.warframe.com
@@ -63,10 +63,16 @@ gallerycdn.vsassets.io
 marketplace.visualstudio.com
 vsassets.io
 cdn1.suno.ai
+chat.deepseek.com
+deepseek.com
+duck.ai
+ollama.com
+static.deepseek.com
 cmake.org
 crates.io
 deno.land
 gitforwindows.org
+godotengine.org
 gleam.run
 fyne.io
 langchain.com
@@ -76,8 +82,6 @@ rust-lang.org
 pythonhosted.org
 www.modular.com
 darkreader.org
-duck.ai
-ollama.com
 duckduckgo.com
 links.duckduckgo.com
 fandom.com
