@@ -5,6 +5,7 @@ awsstatic.com
 cdnjs.cloudflare.com
 cfargotunnel.com
 cfl.re
+cloudflare.dev
 cloudflare-dns.com
 cloudflare-ech.com
 cloudflare-esni.com
