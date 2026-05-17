@@ -1,8 +1,5 @@
 adoptium.net
-<<<<<<< HEAD
 blockbench.net
-=======
->>>>>>> 282e0712fc3d41d9eb680ca34a25770c7be467ee
 pypi.org
 amazonaws.com
 argotunnel.com
@@ -11,6 +8,7 @@ awsstatic.com
 cdnjs.cloudflare.com
 cfargotunnel.com
 cfl.re
+cloudflare.dev
 cloudflare-dns.com
 cloudflare-ech.com
 cloudflare-esni.com
