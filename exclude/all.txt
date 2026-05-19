@@ -71,6 +71,7 @@ static.deepseek.com
 cmake.org
 crates.io
 deno.land
+docs.rs
 gitforwindows.org
 godotengine.org
 gleam.run
@@ -85,6 +86,7 @@ darkreader.org
 duckduckgo.com
 links.duckduckgo.com
 fandom.com
+wikihow.com
 gamejolt.com
 kdenlive.org
 krita.org
