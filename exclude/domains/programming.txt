@@ -1,6 +1,7 @@
 cmake.org
 crates.io
 deno.land
+docs.rs
 gitforwindows.org
 godotengine.org
 gleam.run
