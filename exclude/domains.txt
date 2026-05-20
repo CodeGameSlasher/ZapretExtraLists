@@ -1,4 +1,5 @@
 adderly.top
+chocolatey.org
 nilesoft.org
 voicemod.net
 windhawk.net

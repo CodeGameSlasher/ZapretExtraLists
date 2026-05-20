@@ -4,6 +4,7 @@
 3.164.68.41/16
 172.232.25.131/16
 adderly.top
+chocolatey.org
 nilesoft.org
 voicemod.net
 windhawk.net
