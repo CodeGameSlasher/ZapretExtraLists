@@ -1,5 +1,2 @@
-chat.deepseek.com
-deepseek.com
 duck.ai
 ollama.com
-static.deepseek.com

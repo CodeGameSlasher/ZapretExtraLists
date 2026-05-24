@@ -1,1 +1,3 @@
+aternos.org
+assets.aternos.org
 papermc.io

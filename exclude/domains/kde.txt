@@ -1,3 +1,4 @@
+download.kde.org
+kde.org
 kdenlive.org
 krita.org
-kde.org

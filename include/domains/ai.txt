@@ -1,0 +1,3 @@
+chat.deepseek.com
+deepseek.com
+static.deepseek.com
