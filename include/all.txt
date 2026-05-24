@@ -68,6 +68,9 @@ static.rbxcdn.com
 thumbnails.roblox.com
 tr.rbxcdn.com
 www-assets.roblox.com
+chat.deepseek.com
+deepseek.com
+static.deepseek.com
 kali.org
 http.kali.org
 modrinth.com
