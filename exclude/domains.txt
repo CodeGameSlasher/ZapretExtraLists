@@ -81,8 +81,6 @@ www.modular.com
 darkreader.org
 duckduckgo.com
 links.duckduckgo.com
-ely.by
-papermc.io
 fandom.com
 wikihow.com
 gamejolt.com
@@ -91,6 +89,7 @@ krita.org
 kde.org
 libreoffice.org
 mozilla.org
+papermc.io
 radmin.com
 tpucdn.com
 wherewindsmeet.com

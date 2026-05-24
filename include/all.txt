@@ -1,4 +1,5 @@
 8.221.198.72/16
+account.ely.by
 adoptium.net
 blockbench.net
 pypi.org
