@@ -66,6 +66,8 @@ lichess.org
 lichess1.org
 aternos.org
 assets.aternos.org
+fabricmc.net
+maven.fabricmc.net
 papermc.io
 cdn.vsassets.io
 gallery.vsassets.io
