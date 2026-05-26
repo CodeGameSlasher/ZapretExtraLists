@@ -6,6 +6,7 @@ static.2ip.ru
 adderly.top
 chocolatey.org
 nilesoft.org
+mods.windhawk.net
 voicemod.net
 windhawk.net
 ajay.app

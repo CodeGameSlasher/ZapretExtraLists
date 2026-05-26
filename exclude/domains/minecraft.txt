@@ -1,3 +1,5 @@
 aternos.org
 assets.aternos.org
+fabricmc.net
+maven.fabricmc.net
 papermc.io
