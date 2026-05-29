@@ -11,4 +11,5 @@ mingw-w64.org
 msys2.org
 rust-lang.org
 pythonhosted.org
+static.crates.io
 www.modular.com

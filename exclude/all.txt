@@ -66,6 +66,8 @@ lichess.org
 lichess1.org
 aternos.org
 assets.aternos.org
+fabricmc.net
+maven.fabricmc.net
 papermc.io
 cdn.vsassets.io
 gallery.vsassets.io
@@ -86,6 +88,7 @@ mingw-w64.org
 msys2.org
 rust-lang.org
 pythonhosted.org
+static.crates.io
 www.modular.com
 darkreader.org
 download.kde.org
@@ -101,6 +104,7 @@ wikihow.com
 gamejolt.com
 libreoffice.org
 mozilla.org
+transcend-cdn.com
 waterfox.com
 pixeldrain.com
 radmin.com
