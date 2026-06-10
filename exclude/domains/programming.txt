@@ -1,6 +1,7 @@
 cmake.org
 crates.io
 deno.land
+devtunnels.ms
 docs.rs
 gitforwindows.org
 godotengine.org
@@ -11,9 +12,11 @@ letsencrypt.org
 mingw-w64.org
 msys2.org
 rust-lang.org
+packages.msys2.org
 pythonhosted.org
 shuttle.dev
 static.crates.io
 tauri.app
+uks1.devtunnels.ms
 www.modular.com
 www.shuttle.dev
