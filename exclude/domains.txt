@@ -59,8 +59,6 @@ www-static.warframe.com
 api.chess.com
 lichess.org
 lichess1.org
-api.playit.gg
-us-assets.i.posthog.com
 aternos.org
 assets.aternos.org
 fabricmc.net
@@ -112,7 +110,7 @@ mozilla.org
 transcend-cdn.com
 waterfox.com
 pixeldrain.com
-radmin.com
 tpucdn.com
 wherewindsmeet.com
 www.wherewindsmeet.com
+zerotier.com
