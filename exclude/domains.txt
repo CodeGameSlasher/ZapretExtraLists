@@ -88,6 +88,7 @@ packages.msys2.org
 pythonhosted.org
 shuttle.dev
 static.crates.io
+strawberryperl.com
 tauri.app
 uks1.devtunnels.ms
 www.modular.com
@@ -109,6 +110,7 @@ libreoffice.org
 mozilla.org
 transcend-cdn.com
 waterfox.com
+online-fix.me
 pixeldrain.com
 tpucdn.com
 wherewindsmeet.com
