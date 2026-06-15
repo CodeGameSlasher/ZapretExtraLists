@@ -16,6 +16,7 @@ packages.msys2.org
 pythonhosted.org
 shuttle.dev
 static.crates.io
+strawberryperl.com
 tauri.app
 uks1.devtunnels.ms
 www.modular.com
