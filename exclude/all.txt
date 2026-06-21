@@ -116,7 +116,10 @@ mozilla.org
 transcend-cdn.com
 waterfox.com
 online-fix.me
+qbittorrent.org
 pixeldrain.com
+pixieditor.net
+unpkg.com
 tpucdn.com
 wherewindsmeet.com
 www.wherewindsmeet.com
