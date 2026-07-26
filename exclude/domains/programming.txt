@@ -14,6 +14,7 @@ msys2.org
 rust-lang.org
 packages.msys2.org
 pythonhosted.org
+pytorch.org
 shuttle.dev
 static.crates.io
 strawberryperl.com
