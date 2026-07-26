@@ -69,6 +69,9 @@ assets.aternos.org
 fabricmc.net
 maven.fabricmc.net
 papermc.io
+audacityteam.org
+pixieditor.net
+unpkg.com
 cdn.vsassets.io
 gallery.vsassets.io
 gallerycdn.vsassets.io
@@ -91,6 +94,7 @@ msys2.org
 rust-lang.org
 packages.msys2.org
 pythonhosted.org
+pytorch.org
 shuttle.dev
 static.crates.io
 strawberryperl.com
@@ -119,8 +123,6 @@ waterfox.com
 online-fix.me
 qbittorrent.org
 pixeldrain.com
-pixieditor.net
-unpkg.com
 tpucdn.com
 wherewindsmeet.com
 www.wherewindsmeet.com
