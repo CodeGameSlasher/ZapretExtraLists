@@ -1,2 +1,2 @@
 duck.ai
-ollama.com
+ollama.ai
