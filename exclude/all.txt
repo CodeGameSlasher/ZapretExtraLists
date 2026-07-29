@@ -115,7 +115,7 @@ kde.org
 kdenlive.org
 krita.org
 duck.ai
-ollama.com
+ollama.ai
 duckduckgo.com
 links.duckduckgo.com
 gamejolt.com
