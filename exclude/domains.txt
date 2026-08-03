@@ -114,6 +114,7 @@ ollama.ai
 duckduckgo.com
 links.duckduckgo.com
 gamejolt.com
+larian.com
 mozilla.org
 transcend-cdn.com
 waterfox.com
