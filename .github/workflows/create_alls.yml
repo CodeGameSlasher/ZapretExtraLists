@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v7
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Run main.py
         run: python main.py
@@ -28,7 +28,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          
+
           if ! git diff --cached --quiet; then
             git commit -m "Automated commit: results from main.py [skip ci]"
             git push
