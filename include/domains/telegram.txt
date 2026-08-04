@@ -1,8 +1,8 @@
-telegram.me
+api.telegram.org
+t.me
 telegram.dog
+telegram.me
+telegram.org
 telegram.space
 telesco.pe
 tg.dev
-telegram.org
-t.me
-api.telegram.org

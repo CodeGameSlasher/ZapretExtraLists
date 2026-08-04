@@ -5,13 +5,13 @@ awsstatic.com
 cdnjs.cloudflare.com
 cfargotunnel.com
 cfl.re
-cloudflare.dev
 cloudflare-dns.com
 cloudflare-ech.com
 cloudflare-esni.com
 cloudflare-gateway.com
 cloudflare-quic.com
 cloudflare.com
+cloudflare.dev
 cloudflare.net
 cloudflare.tv
 cloudflareaccess.com
@@ -30,7 +30,6 @@ cloudflarestorage.com
 cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
-cloudfront.net
 cloudfront.net
 console.aws.a2z.com
 deadbydaylight.com
