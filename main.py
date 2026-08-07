@@ -3,7 +3,12 @@ from pathlib import Path
 
 
 def get_all_content(path: Path) -> list[str]:
-    return sorted({file.read_text().strip() for file in path.iterdir()})
+    result: set[str] = set()
+
+    for file in path.iterdir():
+        result |= {*file.read_text().splitlines()}
+
+    return sorted(result)
 
 
 @dataclass
@@ -19,7 +24,9 @@ LISTS = ValueList(Path("exclude")), ValueList(Path("include"))
 
 for value_list in LISTS:
     ips: list[str] = get_all_content(value_list.ips) if value_list.ips.exists() else []
-    domains: list[str] = get_all_content(value_list.domains) if value_list.domains.exists() else []
+    domains: list[str] = (
+        get_all_content(value_list.domains) if value_list.domains.exists() else []
+    )
 
     ips_path = value_list.directory.joinpath("ips.txt")
     if len(ips) > 0:

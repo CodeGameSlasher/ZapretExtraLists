@@ -1,5 +1,7 @@
 assets.aternos.org
 aternos.org
+co.uk
 fabricmc.net
+forgecdn.net
 maven.fabricmc.net
 papermc.io
