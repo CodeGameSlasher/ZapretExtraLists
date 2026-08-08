@@ -3,5 +3,6 @@ aternos.org
 co.uk
 fabricmc.net
 forgecdn.net
+geckolib.com
 maven.fabricmc.net
 papermc.io
