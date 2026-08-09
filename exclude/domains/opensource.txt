@@ -3,3 +3,4 @@ cdn-fastly.obsproject.com
 obsproject.com
 pixieditor.net
 unpkg.com
+writewithharper.com

@@ -1,6 +1,5 @@
 assets.aternos.org
 aternos.org
-co.uk
 fabricmc.net
 forgecdn.net
 geckolib.com
