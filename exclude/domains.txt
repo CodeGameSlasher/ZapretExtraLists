@@ -19,7 +19,6 @@ cdn.akamai.steamstatic.com
 cdn.cookielaw.org
 cdn.vsassets.io
 cdn.warframe.com
-cdn1.suno.ai
 chocolatey.org
 cmake.org
 co.uk
