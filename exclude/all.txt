@@ -118,6 +118,7 @@ tauri.app
 telemetry.warframe.com
 tpucdn.com
 transcend-cdn.com
+typekit.net
 uks1.devtunnels.ms
 unpkg.com
 updates.warframe.com
