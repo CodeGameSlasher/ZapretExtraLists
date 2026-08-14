@@ -1,2 +1,3 @@
 duck.ai
+hf.co
 ollama.ai

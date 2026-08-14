@@ -52,6 +52,7 @@ gitforwindows.org
 gleam.run
 godotengine.org
 gstatic.com
+hf.co
 hwcdn.net
 images.warframe.com
 kde.org
