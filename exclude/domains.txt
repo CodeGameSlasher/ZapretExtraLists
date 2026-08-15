@@ -38,6 +38,7 @@ download.kde.org
 downloads.warframe.com
 duck.ai
 duckduckgo.com
+ecsv2.roblox.com
 fabricmc.net
 fandom.com
 forgecdn.net
@@ -98,6 +99,7 @@ prod.warframe.com
 pythonhosted.org
 pytorch.org
 qbittorrent.org
+roblox.com
 rust-lang.org
 services.warframe.com
 shuttle.dev
