@@ -10,6 +10,7 @@ awsstatic.com
 az1.vpnjantit.com
 bd1.vpnjantit.com
 bd2.vpnjantit.com
+betterdiscord.app
 bh1.vpnjantit.com
 blockbench.net
 cdnjs.cloudflare.com
