@@ -19,6 +19,7 @@ aternos.org
 audacityteam.org
 auth.warframe.com
 bundles.warframe.com
+cdn-cookieyes.com
 cdn-fastly.obsproject.com
 cdn.akamai.steamstatic.com
 cdn.cookielaw.org

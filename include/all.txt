@@ -93,6 +93,7 @@ kh2.vpnjantit.com
 modrinth.com
 one.one.one
 one.one.one.one
+openlogi.org
 pacloudflare.com
 pages.dev
 pypi.org
