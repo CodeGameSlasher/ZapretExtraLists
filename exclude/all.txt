@@ -47,6 +47,7 @@ duckduckgo.com
 ecsv2.roblox.com
 fabricmc.net
 fandom.com
+firefox.com
 forgecdn.net
 forums.warframe.com
 fyne.io

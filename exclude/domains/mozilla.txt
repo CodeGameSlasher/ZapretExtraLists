@@ -1,3 +1,4 @@
+firefox.com
 mozilla.org
 transcend-cdn.com
 waterfox.com
