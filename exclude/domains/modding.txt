@@ -2,5 +2,7 @@ adderly.top
 chocolatey.org
 mods.windhawk.net
 nilesoft.org
+vencord.dev
 voicemod.net
+waterfox.com
 windhawk.net

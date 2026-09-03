@@ -122,6 +122,7 @@ typekit.net
 uks1.devtunnels.ms
 unpkg.com
 updates.warframe.com
+vencord.dev
 voicemod.net
 vsassets.io
 warframe-web-assets.nyc3.cdn.digitaloceanspaces.com
