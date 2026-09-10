@@ -3,6 +3,7 @@ crates.io
 deno.land
 devtunnels.ms
 docs.rs
+egui.rs
 fyne.io
 gitforwindows.org
 gleam.run

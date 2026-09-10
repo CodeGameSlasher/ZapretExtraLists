@@ -40,6 +40,7 @@ downloads.warframe.com
 duck.ai
 duckduckgo.com
 ecsv2.roblox.com
+egui.rs
 fabricmc.net
 fandom.com
 firefox.com
@@ -67,8 +68,8 @@ launcher-content.warframe.com
 launcher.warframe.com
 letsencrypt.org
 libreoffice.org
-lichess.org
 lichess1.org
+lichess.org
 links.duckduckgo.com
 live.warframe.com
 login.warframe.com
@@ -83,6 +84,7 @@ mozilla.org
 msys2.org
 n8k6e2y6.ssl.hwcdn.net
 n9e5v4d8.ssl.hwcdn.net
+nebula.SBZ.com
 nilesoft.org
 obsproject.com
 odin-lang.org
@@ -123,6 +125,7 @@ uks1.devtunnels.ms
 unpkg.com
 updates.warframe.com
 vencord.dev
+visualstudio.com
 voicemod.net
 vsassets.io
 warframe-web-assets.nyc3.cdn.digitaloceanspaces.com
