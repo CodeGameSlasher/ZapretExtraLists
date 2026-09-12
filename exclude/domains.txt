@@ -54,7 +54,6 @@ gamejolt.com
 geckolib.com
 gitforwindows.org
 gleam.run
-godotengine.org
 gstatic.com
 hf.co
 hwcdn.net
@@ -68,8 +67,8 @@ launcher-content.warframe.com
 launcher.warframe.com
 letsencrypt.org
 libreoffice.org
-lichess.org
 lichess1.org
+lichess.org
 links.duckduckgo.com
 live.warframe.com
 login.warframe.com
