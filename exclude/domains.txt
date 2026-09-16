@@ -67,8 +67,8 @@ launcher-content.warframe.com
 launcher.warframe.com
 letsencrypt.org
 libreoffice.org
-lichess.org
 lichess1.org
+lichess.org
 links.duckduckgo.com
 live.warframe.com
 login.warframe.com
@@ -105,6 +105,7 @@ qbittorrent.org
 roblox.com
 rust-lang.org
 services.warframe.com
+setup.rbxcdn.com
 shuttle.dev
 static.2ip.io
 static.2ip.ru

@@ -1,11 +1,11 @@
-172.232.25.131/16
-184.51.226.68/16
-23.211.66.68/16
 2ip.io
 2ip.ru
 2ipcore.com
-3.164.230.79/16
 3.164.68.41/16
+3.164.230.79/16
+23.211.66.68/16
+172.232.25.131/16
+184.51.226.68/16
 adderly.top
 ajay.app
 akamaihd.net
@@ -72,8 +72,8 @@ launcher-content.warframe.com
 launcher.warframe.com
 letsencrypt.org
 libreoffice.org
-lichess.org
 lichess1.org
+lichess.org
 links.duckduckgo.com
 live.warframe.com
 login.warframe.com
@@ -110,6 +110,7 @@ qbittorrent.org
 roblox.com
 rust-lang.org
 services.warframe.com
+setup.rbxcdn.com
 shuttle.dev
 static.2ip.io
 static.2ip.ru
