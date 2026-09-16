@@ -67,8 +67,8 @@ launcher-content.warframe.com
 launcher.warframe.com
 letsencrypt.org
 libreoffice.org
-lichess1.org
 lichess.org
+lichess1.org
 links.duckduckgo.com
 live.warframe.com
 login.warframe.com
