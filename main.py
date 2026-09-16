@@ -1,5 +1,13 @@
+import re
 from dataclasses import dataclass
 from pathlib import Path
+
+
+def natural_key(value: str):
+    return [
+        int(part) if part.isdigit() else part.lower()
+        for part in re.split(r"(\d+)", value)
+    ]
 
 
 def get_all_content(path: Path) -> list[str]:
@@ -8,7 +16,7 @@ def get_all_content(path: Path) -> list[str]:
     for file in path.iterdir():
         result |= {*file.read_text().splitlines()}
 
-    return sorted(result)
+    return sorted(result, key=natural_key)
 
 
 @dataclass
@@ -41,5 +49,5 @@ for value_list in LISTS:
         domains_path.unlink()
 
     value_list.directory.joinpath("all.txt").write_text(
-        "\n".join(sorted({*domains, *ips}))
+        "\n".join(sorted({*domains, *ips}, key=natural_key))
     )
