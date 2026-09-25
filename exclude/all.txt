@@ -33,6 +33,7 @@ content-swi.warframe.com
 content-xb1.warframe.com
 content.invisioncic.com
 content.warframe.com
+corbina.ru
 crates.io
 darkreader.org
 deepwiki.com
@@ -61,8 +62,10 @@ gitforwindows.org
 gleam.run
 gstatic.com
 hf.co
+hoyoverse.com
 hwcdn.net
 images.warframe.com
+jetbrains.com
 kde.org
 kdenlive.org
 krita.org

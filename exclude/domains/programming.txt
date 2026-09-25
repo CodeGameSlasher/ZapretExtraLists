@@ -7,6 +7,7 @@ egui.rs
 fyne.io
 gitforwindows.org
 gleam.run
+jetbrains.com
 langchain.com
 letsencrypt.org
 mingw-w64.org
