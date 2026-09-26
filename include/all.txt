@@ -55,7 +55,6 @@ every1dns.net
 fi1.vpnjantit.com
 fi2.vpnjantit.com
 fi3.vpnjantit.com
-godotengine.org
 hk1.vpnjantit.com
 hk2.vpnjantit.com
 hk3.vpnjantit.com

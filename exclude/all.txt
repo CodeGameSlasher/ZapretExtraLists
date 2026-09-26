@@ -60,6 +60,7 @@ gamejolt.com
 geckolib.com
 gitforwindows.org
 gleam.run
+godotengine.org
 gstatic.com
 hf.co
 hoyoverse.com
@@ -139,6 +140,7 @@ vsassets.io
 warframe-web-assets.nyc3.cdn.digitaloceanspaces.com
 warframe.com
 waterfox.com
+weblate.org
 wherewindsmeet.com
 wikihow.com
 windhawk.net

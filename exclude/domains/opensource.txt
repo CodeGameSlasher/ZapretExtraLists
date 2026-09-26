@@ -1,6 +1,7 @@
 audacityteam.org
 cdn-fastly.obsproject.com
+darkreader.org
 obsproject.com
 pixieditor.net
-unpkg.com
+weblate.org
 writewithharper.com
