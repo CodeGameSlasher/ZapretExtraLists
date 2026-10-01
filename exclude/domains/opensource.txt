@@ -1,6 +1,7 @@
 audacityteam.org
 cdn-fastly.obsproject.com
 darkreader.org
+lizardbyte.dev
 obsproject.com
 pixieditor.net
 weblate.org

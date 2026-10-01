@@ -75,6 +75,8 @@ lichess1.org
 lichess.org
 links.duckduckgo.com
 live.warframe.com
+lizardbyte.dev
+localai.io
 login.warframe.com
 marketplace.visualstudio.com
 matchmaker.warframe.com
