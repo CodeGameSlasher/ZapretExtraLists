@@ -19,6 +19,7 @@ def natural_key(value: str):
     return [
         int(part) if part.isdigit() else part.lower()
         for part in re.split(r"(\d+)", value)
+        if type(part) is str
     ]
 
 
@@ -55,30 +56,27 @@ for folder in Path.cwd().iterdir():
         LISTS.append(data_list)
 
 for value_list in LISTS:
-    ips: list[str] = (
+    ips_data: list[str] = (
         get_all_content(value_list.ips) if contains_any(value_list.ips) else []
     )
-    domains: list[str] = (
+    domains_data: list[str] = (
         get_all_content(value_list.domains) if contains_any(value_list.domains) else []
     )
+    all_data: list[str] = sorted({*domains_data, *ips_data}, key=natural_key)
 
-    ips_path = value_list.ips.with_suffix(".txt")
     domains_path = value_list.domains.with_suffix(".txt")
-    if domains_path.exists():
-        domains_path.unlink()
-    if ips_path.exists():
-        ips_path.unlink()
+    ips_path = value_list.ips.with_suffix(".txt")
+    all_path = value_list.directory.joinpath("all.txt")
+    domains_path.unlink(True)
+    ips_path.unlink(True)
+    all_path.unlink(True)
 
-    if len(ips) + len(domains) == 0:
+    if len(all_data) == 0:
         print(f"List {value_list.directory.stem} is empty")
         sys.exit()
 
-    if len(ips) > 0 and len(domains) > 0:
-        domains_path.write_text("\n".join(domains), encoding="utf-8", newline="\n")
-        ips_path.write_text("\n".join(ips), encoding="utf-8", newline="\n")
+    if len(ips_data) > 0 and len(domains_data) > 0:
+        domains_path.write_text("\n".join(domains_data), encoding="utf-8", newline="\n")
+        ips_path.write_text("\n".join(ips_data), encoding="utf-8", newline="\n")
 
-    value_list.directory.joinpath("all.txt").write_text(
-        "\n".join(sorted({*domains, *ips}, key=natural_key)),
-        encoding="utf-8",
-        newline="\n",
-    )
+    all_path.write_text("\n".join(all_data), encoding="utf-8", newline="\n")
