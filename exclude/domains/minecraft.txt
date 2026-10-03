@@ -4,4 +4,5 @@ fabricmc.net
 forgecdn.net
 geckolib.com
 maven.fabricmc.net
+mohistmc.com
 papermc.io

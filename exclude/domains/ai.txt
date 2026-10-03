@@ -2,3 +2,4 @@ duck.ai
 hf.co
 localai.io
 ollama.ai
+pixverse.ai

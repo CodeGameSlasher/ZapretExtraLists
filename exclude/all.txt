@@ -90,6 +90,7 @@ media.warframe.com
 mingw-w64.org
 mirror.truenetwork.ru
 mods.windhawk.net
+mohistmc.com
 mozilla.org
 msys2.org
 n8k6e2y6.ssl.hwcdn.net
@@ -106,9 +107,11 @@ origin-xb1.warframe.com
 origin.warframe.com
 packages.msys2.org
 papermc.io
+parsec.app
 patches.warframe.com
 pixeldrain.com
 pixieditor.net
+pixverse.ai
 prod.warframe.com
 pythonhosted.org
 pytorch.org
