@@ -13,6 +13,7 @@ assets.aternos.org
 aternos.org
 audacityteam.org
 auth.warframe.com
+bevy.org
 bundles.warframe.com
 cdn-cookieyes.com
 cdn-fastly.obsproject.com
