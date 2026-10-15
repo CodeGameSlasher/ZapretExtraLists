@@ -1,5 +1,6 @@
 duck.ai
 hf.co
+llama.app
 localai.io
 ollama.ai
 pixverse.ai

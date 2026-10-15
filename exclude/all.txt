@@ -83,6 +83,7 @@ lichess.org
 links.duckduckgo.com
 live.warframe.com
 lizardbyte.dev
+llama.app
 localai.io
 login.warframe.com
 marketplace.visualstudio.com
