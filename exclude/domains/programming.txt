@@ -1,4 +1,5 @@
 bevy.org
+biomejs.dev
 cmake.org
 crates.io
 deno.land
@@ -19,6 +20,7 @@ packages.msys2.org
 pythonhosted.org
 pytorch.org
 rust-lang.org
+schemastore.org
 shuttle.dev
 static.crates.io
 strawberryperl.com

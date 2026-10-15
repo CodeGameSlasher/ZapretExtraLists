@@ -14,6 +14,7 @@ aternos.org
 audacityteam.org
 auth.warframe.com
 bevy.org
+biomejs.dev
 bundles.warframe.com
 cdn-cookieyes.com
 cdn-fastly.obsproject.com
@@ -114,6 +115,7 @@ pytorch.org
 qbittorrent.org
 roblox.com
 rust-lang.org
+schemastore.org
 services.warframe.com
 setup.rbxcdn.com
 shuttle.dev
