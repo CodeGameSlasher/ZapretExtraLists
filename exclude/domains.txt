@@ -23,6 +23,7 @@ cdn.cookielaw.org
 cdn.vsassets.io
 cdn.warframe.com
 chocolatey.org
+choosealicense.com
 cmake.org
 co.uk
 content-ps4.warframe.com

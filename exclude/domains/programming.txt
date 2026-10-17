@@ -1,5 +1,6 @@
 bevy.org
 biomejs.dev
+choosealicense.com
 cmake.org
 crates.io
 deno.land
