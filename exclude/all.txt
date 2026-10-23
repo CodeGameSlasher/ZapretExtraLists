@@ -27,6 +27,7 @@ cdn.akamai.steamstatic.com
 cdn.cookielaw.org
 cdn.vsassets.io
 cdn.warframe.com
+cheatengine.org
 chocolatey.org
 choosealicense.com
 cmake.org

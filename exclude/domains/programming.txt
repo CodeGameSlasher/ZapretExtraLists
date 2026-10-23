@@ -1,5 +1,6 @@
 bevy.org
 biomejs.dev
+cheatengine.org
 choosealicense.com
 cmake.org
 crates.io
