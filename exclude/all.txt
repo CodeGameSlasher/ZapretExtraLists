@@ -53,6 +53,7 @@ egui.rs
 fabricmc.net
 fandom.com
 firefox.com
+fission.rs
 forgecdn.net
 forums.warframe.com
 fyne.io
@@ -64,6 +65,7 @@ geckolib.com
 gitforwindows.org
 gleam.run
 godotengine.org
+gpui.rs
 gstatic.com
 hf.co
 hoyoverse.com

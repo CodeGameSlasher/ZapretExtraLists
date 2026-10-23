@@ -7,10 +7,12 @@ deno.land
 devtunnels.ms
 docs.rs
 egui.rs
+fission.rs
 fyne.io
 gitforwindows.org
 gleam.run
 godotengine.org
+gpui.rs
 jetbrains.com
 langchain.com
 letsencrypt.org
