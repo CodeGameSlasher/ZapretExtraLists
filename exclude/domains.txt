@@ -90,6 +90,7 @@ matchmaker.warframe.com
 maven.fabricmc.net
 media.warframe.com
 mingw-w64.org
+mirror.pyratelan.org
 mirror.truenetwork.ru
 mods.windhawk.net
 mohistmc.com
@@ -158,3 +159,4 @@ www.modular.com
 www.shuttle.dev
 www.wherewindsmeet.com
 zerotier.com
+zigtools.org

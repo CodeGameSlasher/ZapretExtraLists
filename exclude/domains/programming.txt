@@ -29,6 +29,6 @@ static.crates.io
 strawberryperl.com
 tauri.app
 uks1.devtunnels.ms
-zigtools.org
 www.modular.com
 www.shuttle.dev
+zigtools.org
