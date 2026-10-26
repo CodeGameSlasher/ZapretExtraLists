@@ -1,0 +1,2 @@
+packages.msys2.org
+mirror.pyratelan.org

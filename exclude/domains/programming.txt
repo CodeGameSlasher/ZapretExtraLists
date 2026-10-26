@@ -20,7 +20,6 @@ letsencrypt.org
 mingw-w64.org
 msys2.org
 odin-lang.org
-packages.msys2.org
 pythonhosted.org
 pytorch.org
 rust-lang.org
@@ -30,5 +29,6 @@ static.crates.io
 strawberryperl.com
 tauri.app
 uks1.devtunnels.ms
+zigtools.org
 www.modular.com
 www.shuttle.dev
