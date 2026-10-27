@@ -101,6 +101,7 @@ sponsor.ajay.app
 sso.amazonaws.com
 static.deepseek.com
 t.me
+tel.pl.tribukvy.ltd
 telegram.dog
 telegram.me
 telegram.org

@@ -90,6 +90,7 @@ matchmaker.warframe.com
 maven.fabricmc.net
 media.warframe.com
 mingw-w64.org
+mirror.msys2.org
 mirror.pyratelan.org
 mirror.truenetwork.ru
 mods.windhawk.net
@@ -99,7 +100,9 @@ msys2.org
 n8k6e2y6.ssl.hwcdn.net
 n9e5v4d8.ssl.hwcdn.net
 nebula.SBZ.com
+networkchuck.com
 nilesoft.org
+notorgames.org
 obsproject.com
 odin-lang.org
 ollama.ai
