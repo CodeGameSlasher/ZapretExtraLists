@@ -64,6 +64,7 @@ godotengine.org
 gpui.rs
 gstatic.com
 hf.co
+hostingchecker.com
 hoyoverse.com
 hwcdn.net
 images.warframe.com
@@ -119,6 +120,7 @@ pixeldrain.com
 pixieditor.net
 pixverse.ai
 prod.warframe.com
+pskovedu.ru
 pythonhosted.org
 pytorch.org
 qbittorrent.org
@@ -139,6 +141,8 @@ strawberryperl.com
 support.warframe.com
 tauri.app
 telemetry.warframe.com
+timeweb.org
+timeweb.ru
 tpucdn.com
 transcend-cdn.com
 typekit.net
@@ -161,5 +165,6 @@ www-static.warframe.com
 www.modular.com
 www.shuttle.dev
 www.wherewindsmeet.com
+xn--d1ah4a.com
 zerotier.com
 zigtools.org

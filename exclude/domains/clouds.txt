@@ -2,5 +2,7 @@ cdn-cookieyes.com
 co.uk
 corbina.ru
 pixeldrain.com
+timeweb.org
+timeweb.ru
 typekit.net
 unpkg.com
