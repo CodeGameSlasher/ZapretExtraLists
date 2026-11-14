@@ -42,6 +42,7 @@ pacloudflare.com
 pages.dev
 signin.aws.amazon.com
 sso.amazonaws.com
+surge.sh
 trycloudflare.com
 videodelivery.net
 warp.plus
