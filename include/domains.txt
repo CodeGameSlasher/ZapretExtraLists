@@ -89,6 +89,7 @@ jp6.vpnjantit.com
 kali.org
 kh1.vpnjantit.com
 kh2.vpnjantit.com
+libretube.dev
 modrinth.com
 one.one.one
 one.one.one.one
